@@ -89,7 +89,7 @@ Executed verification:
 
 No source or documentation findings from the baseline reports remain
 outstanding in the current Pylint, Flake8, or Bandit runs. Final after-analysis
-reports are complete; Git commits remain pending.
+reports are complete, and the Lab 5 deliverables have been committed.
 
 The **original baseline** Bandit report contained one High and one Low finding,
 with no Medium finding. The current Bandit run reports no findings. No severity
